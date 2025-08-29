@@ -1,0 +1,1 @@
+ <?php require __DIR__.'/../src/lib/bootstrap.php'; Auth::logout(); header('Location:/admin/login.php');
